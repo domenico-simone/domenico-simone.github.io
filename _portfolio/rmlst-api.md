@@ -14,11 +14,11 @@ sidebar:
     text: "<i class='fab fa-fw fa-github'></i> [rmlst-api](https://github.com/domenico-simone/rmlst_api)"
 ---
 
-#### An interactive overview of antimicrobial resistance and virulence genes detection
+#### A Python interface to run rMLST API for species identification of a bacterial assembly
 
 <figure>
-<img src="/assets/images/rmlst.png" alt="Overview of virulence factors" style="height: 450px; width: auto">
-<figcaption>The taxonomic coverage of rMLST database.</figcaption>
+<img src="/assets/images/rmlst.png" alt="The taxonomic coverage of the rMLST database" style="height: 450px; width: auto">
+<figcaption>The taxonomic coverage of the rMLST database.</figcaption>
 </figure>
 
 Ribosomal Multilocus Sequence Typing (rMLST) is an approach that indexes variation of the 53 genes encoding the bacterial ribosome protein subunits (_rps_ genes) as a means of integrating microbial taxonomy and typing.<br>
