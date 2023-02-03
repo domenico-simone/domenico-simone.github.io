@@ -1,7 +1,10 @@
 ---
 layout: single
+author_profile: true
 title: About
 permalink: /about/
+# sidebar:
+#     author
 ---
 
 My name is Domenico Simone and I am a passionate Bioinformatician, Data Scientist and Data Analyst.<br>
