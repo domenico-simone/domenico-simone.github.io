@@ -30,7 +30,7 @@ feature_row:
     alt: "signac_portrait_felix_feneon"
     title: "My resume"
     excerpt: "My resume"
-    url: "https://www.dropbox.com/home/personal/applications/2022/resume-pagedown?preview=Simone_Domenico_resume_data_science.pdf"
+    url: "https://www.dropbox.com/s/eq03rb80l4wyscu/Simone_Domenico_resume_data_science.pdf?dl=0"
     btn_class: "btn--primary"
     btn_label: "Go to section"   
 ---
