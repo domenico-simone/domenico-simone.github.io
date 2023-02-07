@@ -2,7 +2,10 @@
 title: "MToolBox"
 subtitle: "A pipeline for mitochondrial SNP calling and annotation"
 layout: single
-excerpt: "Workflow for mitochondrial SNP calling and functional annotation from NGS data"
+excerpt: "Workflow for mitochondrial SNP calling and functional annotation from <b>NGS data</b> **NGS data**"
+#<br><button type="button" name="button" class="btn">Button element</button>
+# btn_class: "btn--primary"
+# btn_label: "Go to section"
 header:
   # image: /assets/images/mitochondrion.png
   teaser: /assets/images/mitochondrion.png
