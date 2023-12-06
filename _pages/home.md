@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  Bioinformatician, Data Scientist, Data Analyst.
+  Data Engineer, Python Developer, Bioinformatician.
 feature_row:
   - image_path: /assets/images/signac_bottom_left.png
     alt: "customizable"
